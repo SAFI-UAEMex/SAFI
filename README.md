@@ -1,5 +1,5 @@
 ![Logo SAFI](https://raw.githubusercontent.com/ElesMiranda/KiCad/main/Imag/SAFI_Logo.png)
-*(Nota: Reemplaza este enlace con la URL oficial del logo de SAFI)*
+*(Nota: AQUI PONER EL LOGOOOOOOOOOO)*
 
 # 🚀 Proyecto Aeroespacial SAFI (Sistema Autónomo de Vuelo Integrado)
 
