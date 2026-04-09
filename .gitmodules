@@ -1,0 +1,6 @@
+[submodule "KiCad"]
+	path = KiCad
+	url = https://github.com/ElesMiranda/KiCad.git
+[submodule "Altium-Designer"]
+	path = Altium-Designer
+	url = https://github.com/EmiFlowers/Altium-Designer.git

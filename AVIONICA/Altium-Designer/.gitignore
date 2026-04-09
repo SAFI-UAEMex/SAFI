@@ -1,0 +1,27 @@
+# ========================================
+# Ignorar Archivos Temporales de Altium
+# ========================================
+
+# Carpetas de copias de seguridad e historial local
+History/
+__Previews/
+
+# Carpetas de logs generadas al compilar
+ProjectLogs*/
+
+# Archivos de bloqueo (Lock files)
+~$*.*
+
+# Reportes y registros automáticos (DRC, compilación)
+*.LOG
+*.REP
+*.htm
+*.html
+
+# Archivos de estado del entorno del usuario (configuraciones de tu PC)
+*.PrjPcbStructure
+*.OutJobBackup
+
+# Archivos del sistema operativo (Windows/Mac)
+Thumbs.db
+.DS_Store
