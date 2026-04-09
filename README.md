@@ -1,5 +1,15 @@
-![Logo SAFI](https://raw.githubusercontent.com/ElesMiranda/KiCad/main/Imag/SAFI_Logo.png)
-*(Nota: AQUI PONER EL LOGOOOOOOOOOO)*
+<p align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./Pictures/LOGO_SAFI a color.png" width="500">
+      </td>
+      <td width="20"></td> <td align="center" valign="middle">
+        <img src="./Pictures/PotroRockets_New PNG.png" width="500">
+      </td>
+    </tr>
+  </table>
+</p>
 
 # 🚀 Proyecto Aeroespacial SAFI (Sistema Autónomo de Vuelo Integrado)
 
