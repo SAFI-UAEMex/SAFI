@@ -4,3 +4,6 @@
 [submodule "Altium-Designer"]
 	path = Altium-Designer
 	url = https://github.com/EmiFlowers/Altium-Designer.git
+[submodule "AVIONICA/Altium-Designer"]
+	path = AVIONICA/Altium-Designer
+	url = https://github.com/EmiFlowers/Altium-Designer.git
